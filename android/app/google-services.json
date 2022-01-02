@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347561891098",
+    "project_id": "flutterfcm-c0ead",
+    "storage_bucket": "flutterfcm-c0ead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347561891098:android:1c8eb33e0db5ea186e08a3",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347561891098-k45hcvi8et714722gvb5ot3dl3ero1v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYLIilH14nttGi8qyQ0wWbs-ij-Z3vqmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347561891098-k45hcvi8et714722gvb5ot3dl3ero1v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
